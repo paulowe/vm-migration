@@ -24,7 +24,7 @@ In the next phase (Plan and Foundation), discovery will not stop!
  - Time estimated for discovery (especially because this is 50% of the work in VM migration)
 
 **Tools**
-StratoZone (owned by Google - Free)
+StratoZone (owned by Google now - Free)
 
 CloudPhysics, Flexera, Cloudamize (paid-for; optinoal commercial features)
 
