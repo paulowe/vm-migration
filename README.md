@@ -45,6 +45,16 @@ Spot challenges.
 
 CloudEndure - for bare metal migrations. AWS closed sourced it.
 
+2016 versioned OS migration on wards (fine)
+
+Dont consider
+
+#### Poor first movers are:
+- Highly dependent or depended upon
+- Business critical and not tolerant of downtime
+- Complex data environments
+- Front end / Client facing apps
+- Not good examples to learn and gain confidence from
 
 ### Stage 2: Survey and interviews
 
