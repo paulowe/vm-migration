@@ -37,7 +37,7 @@ All this is based on whether or not the client will allow you to do this). The g
 
 Spot challenges.
 
-## Tools collect data in three main ways
+#### Tools collect data in three main ways
 1. From vSphere or AWS - run automated discovery in a vCenter you own!!! If its multitenant you cannot do this. With that said, AWS tools are limited
 2. From machines using SSH/WMI
 3. From agents installed node by node
@@ -46,11 +46,13 @@ Spot challenges.
 
 CloudEndure - for bare metal migrations. AWS closed sourced it.
 
-### Stage 2: Survey and interviews**
 
-**Stage 3: Analysis**
 
-**Stage 4: Deliverables**
+### Stage 2: Survey and interviews
+
+### Stage 3: Analysis
+
+### Stage 4: Deliverables
 
 In all the stages, humna intervention is required!
 
