@@ -47,7 +47,6 @@ Spot challenges.
 CloudEndure - for bare metal migrations. AWS closed sourced it.
 
 
-
 ### Stage 2: Survey and interviews
 
 ### Stage 3: Analysis
