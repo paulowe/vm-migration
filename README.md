@@ -56,6 +56,15 @@ Dont consider
 - Front end / Client facing apps
 - Not good examples to learn and gain confidence from
 
+#### Good first movers?
+- Make the move in low/no usage periods
+- Have a clear rollback strategy
+- Are internal facing
+- Plan for the worst case
+- Have architectural and application support personnel on hand to hel troubleshoot
+
+## Analysis of decent first movers Deliverables
+
 ### Stage 2: Survey and interviews
 
 ### Stage 3: Analysis
