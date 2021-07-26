@@ -10,12 +10,11 @@ If we discover 50% with automated tools, we are lucky! Discovery is Never 100%
 Migrate systems that have not been overwritten.
 
 ### Stage 1: Automated discovery**
-Pre sales environment 
+1. Pre sales environment 
 - in pre sales this discovery is for your benefit to understand what the full magnitude/scope really is.
 - not for the client
 
-Post sales
-- 
+2. Post sales
 
 In the next phase (Plan and Foundation), discovery will not stop!
  
